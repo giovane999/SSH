@@ -1,0 +1,4 @@
+...Criado por Eric Rodrigues...
+
+0  - Installar dependencias           
+1  - Adicionar Servidor SSH   
